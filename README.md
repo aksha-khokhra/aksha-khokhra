@@ -48,7 +48,7 @@
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🕉️ Project Tattva
 
@@ -71,8 +71,6 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 `Python` `Telegram API` `AI`
 
 </td>
-
-<td width="50%" valign="top">
 
 </tr>
 </table>
