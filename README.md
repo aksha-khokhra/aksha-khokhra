@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  🖤 experimenting &nbsp;&nbsp; 🖤 designing &nbsp;&nbsp; 🖤 building
+  🤍 experimenting &nbsp;&nbsp; 🤍 designing &nbsp;&nbsp; 🤍 building
 </p>
 
 <br/>
@@ -27,10 +27,10 @@
 
 ## currently in the lab
 
-🖤 Building **StoryForge** — an AI-powered book creation platform  
-🖤 Exploring **RAG, semantic search, NLP & local LLMs**  
-🖤 Deepening my skills in **Machine Learning & AI Engineering**  
-🖤 Blending code with **illustration, visual design & creativity**    
+🤍 Building **StoryForge** — an AI-powered book creation platform  
+🤍 Exploring **RAG, semantic search, NLP & local LLMs**  
+🤍 Deepening my skills in **Machine Learning & AI Engineering**  
+🤍 Blending code with **illustration, visual design & creativity**    
 
 <br/>
 
@@ -113,9 +113,9 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 
 ## beyond code
 
-🖤 Some days I'm training models.  
-🖤 Some days I'm designing things.  
-🖤 Some days I'm illustrating stories for little imaginations.
+🤍 Some days I'm training models.  
+🤍 Some days I'm designing things.  
+🤍 Some days I'm illustrating stories for little imaginations.
 
 <br/>
 
@@ -137,5 +137,5 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  🖤 currently somewhere between an idea and a prototype... 🖤
+  🤍 currently somewhere between an idea and a prototype... 🤍
 </p>
