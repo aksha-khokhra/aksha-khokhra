@@ -45,7 +45,7 @@ Blending code with **illustration, visual design & creativity**
 
 <td width="50%" valign="top">
 
-### [Project Tattva] (https://github.com/aksha-khokhra/bhagavad-gita-ai}
+### [Project Tattva](https://github.com/aksha-khokhra/bhagavad-gita-ai}
 
 **RAG-Based Bhagavad Gita AI Assistant** 
 
@@ -57,7 +57,7 @@ A retrieval-augmented AI system using semantic search and a local LLM to generat
 
 <td width="50%" valign="top">
 
-### [Thinklet] (https://github.com/aksha-khokhra/next-step-bot)
+### [Thinklet](https://github.com/aksha-khokhra/next-step-bot)
 
 **Telegram To-Do Assistant**
 
