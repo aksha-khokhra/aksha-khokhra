@@ -45,7 +45,7 @@ Blending code with **illustration, visual design & creativity**
 
 <td width="50%" valign="top">
 
-### [Project Tattva](https://github.com/aksha-khokhra/bhagavad-gita-ai}
+### [Project Tattva](https://github.com/aksha-khokhra/bhagavad-gita-ai)
 
 **RAG-Based Bhagavad Gita AI Assistant** 
 
