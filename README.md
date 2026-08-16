@@ -122,9 +122,5 @@ Some days I'm illustrating stories for little imaginations.
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  ────────── ✦ 🩵 ✦ 🩷 ✦ ──────────
-</p>
-
-<p align="center">
-  <code>currently somewhere between an idea and a prototype...</code>
+  <code>🩵 currently somewhere between an idea and a prototype... 🩷</code>
 </p>
