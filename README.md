@@ -25,13 +25,13 @@
 <!--                     CURRENTLY IN THE LAB                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## ⚡ currently in the lab
+## currently in the lab
 
-📚 Building **StoryForge** — an AI-powered book creation platform  
-🧠 Exploring **RAG, semantic search, NLP & local LLMs**  
-🌱 Deepening my skills in **Machine Learning & AI Engineering**  
-🎨 Blending code with **illustration, visual design & creativity**  
-🧪 Turning ideas into real, usable experiments  
+Building **StoryForge** — an AI-powered book creation platform  
+Exploring **RAG, semantic search, NLP & local LLMs**  
+Deepening my skills in **Machine Learning & AI Engineering**  
+Blending code with **illustration, visual design & creativity**  
+Turning ideas into real, usable experiments  
 
 <br/>
 
@@ -39,16 +39,16 @@
 <!--                     FEATURED EXPERIMENTS                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🧪 featured experiments
+## featured experiments
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🕉️ Project Tattva
+### Project Tattva (https://github.com/aksha-khokhra/bhagavad-gita-ai}
 
-**RAG-Based Bhagavad Gita AI Assistant**
+**RAG-Based Bhagavad Gita AI Assistant** 
 
 A retrieval-augmented AI system using semantic search and a local LLM to generate responses grounded in a structured Bhagavad Gita knowledge base.
 
@@ -58,7 +58,7 @@ A retrieval-augmented AI system using semantic search and a local LLM to generat
 
 <td width="50%" valign="top">
 
-### 🧠 Thinklet
+### Thinklet (https://github.com/aksha-khokhra/next-step-bot)
 
 **Telegram To-Do Assistant**
 
@@ -77,7 +77,7 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 <!--                           TOOLBOX                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🛠️ toolbox
+## toolbox
 
 ### languages & tools
 
@@ -107,7 +107,7 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 <!--                       BEYOND CODE                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🎨 beyond code
+## beyond code
 
 Some days I'm training models.  
 Some days I'm designing things.  
@@ -127,8 +127,4 @@ Some days I'm illustrating stories for little imaginations.
 
 <p align="center">
   <code>currently somewhere between an idea and a prototype...</code>
-</p>
-
-<p align="center">
-  ────────── ✦ 🩷 ✦ 🩵 ✦ ──────────
 </p>
