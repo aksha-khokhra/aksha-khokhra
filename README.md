@@ -72,7 +72,7 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 </tr>
 </table>
