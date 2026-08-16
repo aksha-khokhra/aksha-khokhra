@@ -2,10 +2,6 @@
 <!--                         HEADER                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="./assets/github-header.png" width="100%" alt="Aksha's AI Lab" />
-</p>
-
 <h1 align="center">
   Hi, I'm <span>Aksha</span> ✦
 </h1>
@@ -118,28 +114,6 @@ Some days I'm designing things.
 Some days I'm illustrating stories for little imaginations.
 
 > ### jack of all trades, master of some.
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       GITHUB ACTIVITY                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📈 lab activity
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=aksha-khokhra&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff79b0&text_color=8b949e&icon_color=58d8e8"
-    alt="Aksha's GitHub stats"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksha-khokhra&layout=compact&hide_border=true&bg_color=00000000&title_color=ff79b0&text_color=8b949e"
-    alt="Aksha's top languages"
-  />
-</p>
 
 <br/>
 
