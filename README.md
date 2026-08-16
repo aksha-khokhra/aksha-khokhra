@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h1 align="center">
-  Hi, I'm <span>Aksha</span> ✦
+  Hi, I'm Aksha ✦
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  🩵 experimenting &nbsp;&nbsp; 🩷 designing &nbsp;&nbsp; ✨ building
+  🖤 experimenting &nbsp;&nbsp; 🖤 designing &nbsp;&nbsp; 🖤 building
 </p>
 
 <br/>
@@ -27,10 +27,10 @@
 
 ## currently in the lab
 
-Building **StoryForge** — an AI-powered book creation platform  
-Exploring **RAG, semantic search, NLP & local LLMs**  
-Deepening my skills in **Machine Learning & AI Engineering**  
-Blending code with **illustration, visual design & creativity**    
+🖤 Building **StoryForge** — an AI-powered book creation platform  
+🖤 Exploring **RAG, semantic search, NLP & local LLMs**  
+🖤 Deepening my skills in **Machine Learning & AI Engineering**  
+🖤 Blending code with **illustration, visual design & creativity**    
 
 <br/>
 
@@ -51,7 +51,12 @@ Blending code with **illustration, visual design & creativity**
 
 A retrieval-augmented AI system using semantic search and a local LLM to generate responses grounded in a structured Bhagavad Gita knowledge base.
 
-`Python` `RAG` `NLP` `Ollama`
+<br/>
+
+<img src="https://img.shields.io/badge/Python-58D8E8?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/RAG-FF79B0?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/NLP-58D8E8?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Ollama-FF79B0?style=flat-square&labelColor=161B22" />
 
 </td>
 
@@ -63,7 +68,11 @@ A retrieval-augmented AI system using semantic search and a local LLM to generat
 
 A productivity assistant designed to break overwhelming tasks into smaller, manageable steps and help users move forward one action at a time.
 
-`Python` `Telegram API` `AI`
+<br/>
+
+<img src="https://img.shields.io/badge/Python-FF79B0?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Telegram_API-58D8E8?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/AI-FF79B0?style=flat-square&labelColor=161B22" />
 
 </td>
 
@@ -86,19 +95,15 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 
 ### AI / ML stack
 
-`RAG`
-&nbsp; • &nbsp;
-`NLP`
-&nbsp; • &nbsp;
-`LLMs`
-&nbsp; • &nbsp;
-`Embeddings`
-&nbsp; • &nbsp;
-`Sentence Transformers`
-&nbsp; • &nbsp;
-`Semantic Search`
-&nbsp; • &nbsp;
-`Ollama`
+<p>
+  <img src="https://img.shields.io/badge/RAG-58D8E8?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/NLP-FF79B0?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/LLMs-58D8E8?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Embeddings-FF79B0?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-58D8E8?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Semantic_Search-FF79B0?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/Ollama-58D8E8?style=flat-square&labelColor=161B22" />
+</p>
 
 <br/>
 
@@ -108,13 +113,20 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 
 ## beyond code
 
-Some days I'm training models.  
-Some days I'm designing things.  
-Some days I'm illustrating stories for little imaginations.
+🖤 Some days I'm training models.  
+🖤 Some days I'm designing things.  
+🖤 Some days I'm illustrating stories for little imaginations.
+
+<br/>
 
 ## connect
 
-[LinkedIn](https://www.linkedin.com/in/aksha-khokhra)
+<a href="https://www.linkedin.com/in/aksha-khokhra">
+  <img src="https://img.shields.io/badge/LinkedIn-58D8E8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" />
+</a>
+
+<br/>
+<br/>
 
 > ### jack of all trades, master of some.
 
@@ -125,5 +137,5 @@ Some days I'm illustrating stories for little imaginations.
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <code>🩵 currently somewhere between an idea and a prototype... 🩷</code>
+  🖤 currently somewhere between an idea and a prototype... 🖤
 </p>
