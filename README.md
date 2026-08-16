@@ -60,7 +60,7 @@ A retrieval-augmented AI system using semantic search and a local LLM to generat
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧠 Thinklet
 
