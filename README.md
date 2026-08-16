@@ -30,8 +30,7 @@
 Building **StoryForge** — an AI-powered book creation platform  
 Exploring **RAG, semantic search, NLP & local LLMs**  
 Deepening my skills in **Machine Learning & AI Engineering**  
-Blending code with **illustration, visual design & creativity**  
-Turning ideas into real, usable experiments  
+Blending code with **illustration, visual design & creativity**    
 
 <br/>
 
@@ -46,7 +45,7 @@ Turning ideas into real, usable experiments
 
 <td width="50%" valign="top">
 
-### Project Tattva (https://github.com/aksha-khokhra/bhagavad-gita-ai}
+### [Project Tattva] (https://github.com/aksha-khokhra/bhagavad-gita-ai}
 
 **RAG-Based Bhagavad Gita AI Assistant** 
 
@@ -58,7 +57,7 @@ A retrieval-augmented AI system using semantic search and a local LLM to generat
 
 <td width="50%" valign="top">
 
-### Thinklet (https://github.com/aksha-khokhra/next-step-bot)
+### [Thinklet] (https://github.com/aksha-khokhra/next-step-bot)
 
 **Telegram To-Do Assistant**
 
@@ -112,6 +111,10 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 Some days I'm training models.  
 Some days I'm designing things.  
 Some days I'm illustrating stories for little imaginations.
+
+## connect
+
+[LinkedIn](https://www.linkedin.com/in/aksha-khokhra)
 
 > ### jack of all trades, master of some.
 
