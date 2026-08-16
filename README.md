@@ -126,9 +126,8 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 </a>
 
 <br/>
-<br/>
 
-> ### jack of all trades, master of some.
+<br/>
 
 <br/>
 
@@ -137,5 +136,5 @@ A productivity assistant designed to break overwhelming tasks into smaller, mana
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  🤍 currently somewhere between an idea and a prototype... 🤍
+  🤍 jack of all trades, master of some... 🤍
 </p>
